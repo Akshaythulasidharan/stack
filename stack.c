@@ -16,7 +16,6 @@ int main()
     do
     {
         printf("\n Enter the Choice:");
-        printf("\n\t**************************************");
         scanf("%d",&choice);
         switch(choice)
         {
